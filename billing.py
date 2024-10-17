@@ -1,4 +1,4 @@
-
+#first function
 def price(size, num_mow, blow, trim):
     print("Testing")
 
